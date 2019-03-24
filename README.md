@@ -7,5 +7,5 @@ Well, put it on a server with php-scripting abilities and open the config.inc.ph
 # I found a bug.
 Good for you. File a report. Maybe I'll fix it. Maybe.
 
-# For what is the doc folder
+# For what is the doc folder?
 I've put a pdf inside, containing a website with all the information about the LD382 chip, which I've used for this...

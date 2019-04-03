@@ -236,7 +236,6 @@ if(isset($_GET['action'])) {
                 top: -100%;
                 left: 0;
                 right: 0;
-                bottom: 0;
                 transform: translateY(-50%);
             }
         </style>
